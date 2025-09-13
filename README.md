@@ -1,2 +1,1 @@
-# ElzeroRepo
-For learning git and GitHub 
+#I started
